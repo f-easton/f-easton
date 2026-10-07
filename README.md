@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on axion like particles (ALPs) and black hole superradiance. 
+- 🔭 I’m currently a PhD student working on axion like particles (ALPs) and black hole superradiance. 
 
 
 <!--
