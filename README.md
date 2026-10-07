@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a master's dissertation about dual axions and the primakoff process. 
+- 🔭 I’m currently working on axion like particles (ALPs) and black hole superradiance. 
 
 
 <!--
